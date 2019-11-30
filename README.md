@@ -1,5 +1,5 @@
 # Fiction chapters dataset
-Small data set of fiction chapters with plot-revealing names
+A small data set of fiction chapters with plot-revealing names.
 
 The data set contains 1253 data points (chapters and the corresponding titles). All the books are in English. The following literary works create the dataset:
 
